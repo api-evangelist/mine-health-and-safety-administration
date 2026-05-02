@@ -5,18 +5,21 @@ The Mine Safety and Health Administration (MSHA) works to prevent mining related
 
 ## Scope
 
-- **Type:** Contract 
-- **Position:** Consuming 
-- **Access:** 3rd-Party 
+- **Type:** Contract
+- **Position:** Consuming
+- **Access:** 3rd-Party
 
 ## Tags:
 
  - Federal Government
+ - Mining
+ - Safety
+ - Health
 
 ## Timestamps
 
-- **Created:** 2024-12-03 
-- **Modified:** 2026-03-16 
+- **Created:** 2024-12-03
+- **Modified:** 2026-04-28
 
 ## Maintainers
 
